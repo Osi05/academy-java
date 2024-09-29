@@ -1,4 +1,4 @@
-package com.bptn.course.bigCoding;
+package com.bptn.course.bigCoding._02_string_operations;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.bptn.course.bigCoding;
+package com.bptn.course.bigCoding._03_word_encryption;
 
 import java.util.Scanner;
 
