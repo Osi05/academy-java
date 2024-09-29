@@ -85,5 +85,6 @@ public class StringOperations {
                 System.out.println("Invalid choice! Please make a valid choice.");
             }
         } while (true); // Continue until the user chooses to exit 
-    }
-}
+        
+        }
+	}
