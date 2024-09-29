@@ -1,4 +1,4 @@
-package com.bptn.course.bigCoding;
+package com.bptn.course.bigCoding._01_calculator;
 
 import java.util.*;
 
