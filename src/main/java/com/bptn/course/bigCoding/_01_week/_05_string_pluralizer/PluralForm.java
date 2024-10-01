@@ -1,4 +1,4 @@
-package com.bptn.course.bigCoding._05_string_pluralizer;
+package com.bptn.course.bigCoding._01_week._05_string_pluralizer;
 
 import java.util.Scanner;
 

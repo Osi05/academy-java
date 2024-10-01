@@ -1,4 +1,4 @@
-package com.bptn.course.bigCoding._04_guess_the_number;
+package com.bptn.course.bigCoding._01_week._04_guess_the_number;
 
 import java.util.Scanner;
 import java.util.Random;
