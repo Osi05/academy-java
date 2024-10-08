@@ -1,4 +1,4 @@
-package com.bptn.course._il_._02_week.method_overloading;
+package com.bptn.course._instructor_lead_and_knowledge_check._02_week.method_overloading;
 
 public class Add {
 
