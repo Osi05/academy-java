@@ -1,4 +1,4 @@
-package com.bptn.course.personal_learning_hashset;
+package com.bptn.course.personal_learning.hashset;
 import java.util.HashSet;
 import java.util.Set;
 
