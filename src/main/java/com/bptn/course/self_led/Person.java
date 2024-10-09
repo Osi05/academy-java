@@ -1,4 +1,4 @@
-package com.bptn.course.personal_learning;
+package com.bptn.course.self_led;
 
 public class Person {
     private String name;

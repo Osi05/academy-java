@@ -1,4 +1,4 @@
-package com.bptn.course.personal_learning.youtube_sections._01_section;
+package com.bptn.course.self_led.youtube_sections._01_section;
 
 import java.util.ArrayList;
 import java.util.Random;

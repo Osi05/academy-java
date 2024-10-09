@@ -1,4 +1,4 @@
-package com.bptn.course.personal_learning._setters_getters;
+package com.bptn.course.self_led._setters_getters;
 
 public class Main {
 

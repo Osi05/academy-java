@@ -1,4 +1,4 @@
-package com.bptn.course.personal_learning._learn_array;
+package com.bptn.course.self_led._learn_array;
 
 import java.util.*;
 

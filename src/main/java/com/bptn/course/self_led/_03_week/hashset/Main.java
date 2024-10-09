@@ -1,4 +1,4 @@
-package com.bptn.course.personal_learning.hashset;
+package com.bptn.course.self_led._03_week.hashset;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Set;
