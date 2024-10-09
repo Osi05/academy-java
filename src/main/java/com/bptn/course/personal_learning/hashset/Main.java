@@ -1,5 +1,6 @@
 package com.bptn.course.personal_learning.hashset;
 import java.util.HashSet;
+import java.util.LinkedList;
 import java.util.Set;
 
 public class Main {
@@ -18,6 +19,12 @@ public class Main {
     	
     	System.out.println("The mumbers in the Set are: " + nums);
     	System.out.println("Size of the Set is: " + nums.size());
+    	
+    	LinkedList<Integer> num = new LinkedList<>();
+    	
+    	num.add(10);
+    	num.set(0, 2);
+    	System.out.println(num);
     	
     }
     
