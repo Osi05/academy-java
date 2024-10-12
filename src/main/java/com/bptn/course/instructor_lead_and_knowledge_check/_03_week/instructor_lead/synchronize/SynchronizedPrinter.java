@@ -5,6 +5,7 @@ public class SynchronizedPrinter {
     public void printNumbers() {
         
     	//synchronize instance 
+    	
             synchronized(this) {
             	System.out.println("Inside of the synchronized block.");
             	
