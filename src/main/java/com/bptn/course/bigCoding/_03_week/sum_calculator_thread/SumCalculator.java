@@ -37,4 +37,5 @@ class SumCalculator extends Thread {
     public int getSum() {
         return sum;
     }
+
 }

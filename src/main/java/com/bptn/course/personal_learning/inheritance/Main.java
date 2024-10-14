@@ -1,5 +1,6 @@
 package com.bptn.course.personal_learning.inheritance;
 
+import java.util.ArrayList;
 public class Main {
 
 	
@@ -59,6 +60,39 @@ public class Main {
 		
 		
 //		System.out.println(car.add(120, 100));
+		
+		int number = 13;
+//		boolean isEqual = (number == 13);
+		
+		String hola = "Hello World!";
+//		boolean isEqual = !(hola == "Hello World!");
+		
+
+
+
+ArrayList<Integer> nums = new ArrayList<>();
+        nums.add(2);
+        nums.add(4);
+        nums.add(6);
+        nums.add(8);
+        nums.add(10);
+        nums.add(2);
+        
+        int val1 = 0;
+        int val2 = 5;
+        
+        boolean isEqual = (!nums.get(val1).equals(nums.get(val2)));
+
+		System.out.println(isEqual);
+		
+        for (int i = 1; i <= 10; i++) {
+            System.out.print(i);
+            if (i % 2 == 0) {
+                System.out.print(" - even");
+            }
+//            System.out.println();
+        }
+        System.out.print("We love to print lines.");
 }
 	
 	
