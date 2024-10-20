@@ -23,7 +23,7 @@ class MergeSort {
     static void merge(int arr[], int l, int m, int r) {
     	
     	// Find sizes of 2 subarrays to be merged 
-    	int subOne = m - 1 + 1;
+    	int subOne = m - l + 1;
     	int subTwo = r - m;
         
     	//create temp arrays
